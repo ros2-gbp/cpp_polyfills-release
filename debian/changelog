@@ -1,0 +1,22 @@
+ros-iron-tcb-span (1.0.2-4bullseye) bullseye; urgency=high
+
+  * HAS_LIBRARY_TARGET
+  * Remove superfluous call in cmake
+  * Contributors: Tyler Weaver
+
+ -- Tyler Weaver <maybe@tylerjw.dev>  Sat, 01 Oct 2022 16:00:00 -0000
+
+ros-iron-tcb-span (1.0.1-4bullseye) bullseye; urgency=high
+
+  * Drop requirement for CMake to 3.16
+  * Contributors: Tyler Weaver
+
+ -- Tyler Weaver <maybe@tylerjw.dev>  Mon, 26 Sep 2022 16:00:00 -0000
+
+ros-iron-tcb-span (1.0.0-4bullseye) bullseye; urgency=high
+
+  * Contributors: Tyler Weaver
+
+ -- Tyler Weaver <maybe@tylerjw.dev>  Mon, 19 Sep 2022 16:00:00 -0000
+
+
