@@ -1,0 +1,22 @@
+ros-kilted-tl-expected (1.0.2-5bookworm) bookworm; urgency=high
+
+  * HAS_LIBRARY_TARGET
+  * Remove superfluous call in cmake
+  * Contributors: Tyler Weaver
+
+ -- Tyler Weaver <maybe@tylerjw.dev>  Sun, 02 Oct 2022 05:00:00 -0000
+
+ros-kilted-tl-expected (1.0.1-5bookworm) bookworm; urgency=high
+
+  * Drop requirement for CMake to 3.16
+  * Contributors: Tyler Weaver
+
+ -- Tyler Weaver <maybe@tylerjw.dev>  Tue, 27 Sep 2022 05:00:00 -0000
+
+ros-kilted-tl-expected (1.0.0-5bookworm) bookworm; urgency=high
+
+  * Contributors: Tyler Weaver
+
+ -- Tyler Weaver <maybe@tylerjw.dev>  Tue, 20 Sep 2022 05:00:00 -0000
+
+

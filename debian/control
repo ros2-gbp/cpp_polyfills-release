@@ -1,0 +1,12 @@
+Source: ros-kilted-tl-expected
+Section: misc
+Priority: optional
+Maintainer: Tyler Weaver <maybe@tylerjw.dev>
+Build-Depends: debhelper (>= 9.0.0), ros-kilted-ament-cmake, ros-kilted-ros-workspace
+Homepage: https://github.com/TartanLlama/expected
+Standards-Version: 3.9.2
+
+Package: ros-kilted-tl-expected
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kilted-ros-workspace
+Description: C++11/14/17 std::expected with functional-style extensions
