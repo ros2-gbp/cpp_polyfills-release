@@ -1,0 +1,30 @@
+ros-kilted-tcb-span (1.2.0-1noble) noble; urgency=high
+
+  * Add some new maintainers for ROS releases
+  * fixing license tag in package.xml to conform to SPDX
+  * Contributors: Matthias Schoepfer, Nathan Brooks
+
+ -- Tyler Weaver <maybe@tylerjw.dev>  Tue, 23 Dec 2025 00:00:00 -0000
+
+ros-kilted-tcb-span (1.0.2-1noble) noble; urgency=high
+
+  * HAS_LIBRARY_TARGET
+  * Remove superfluous call in cmake
+  * Contributors: Tyler Weaver
+
+ -- Tyler Weaver <maybe@tylerjw.dev>  Sun, 02 Oct 2022 00:00:00 -0000
+
+ros-kilted-tcb-span (1.0.1-1noble) noble; urgency=high
+
+  * Drop requirement for CMake to 3.16
+  * Contributors: Tyler Weaver
+
+ -- Tyler Weaver <maybe@tylerjw.dev>  Tue, 27 Sep 2022 00:00:00 -0000
+
+ros-kilted-tcb-span (1.0.0-1noble) noble; urgency=high
+
+  * Contributors: Tyler Weaver
+
+ -- Tyler Weaver <maybe@tylerjw.dev>  Tue, 20 Sep 2022 00:00:00 -0000
+
+
