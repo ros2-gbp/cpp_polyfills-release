@@ -2,13 +2,21 @@
 Changelog for package tl_expected
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.3.0 (2026-04-22)
+2.0.2 (2026-04-22)
 ------------------
-* Move deprecation warning outside of include guards (`#22 <https://github.com/PickNikRobotics/cpp_polyfills/issues/22>`_)
-* Add a deprecation warning to the package.xml (backport `#21 <https://github.com/PickNikRobotics/cpp_polyfills/issues/21>`_) (`#23 <https://github.com/PickNikRobotics/cpp_polyfills/issues/23>`_)
-* Add a deprecation warning to tl_expected (`#18 <https://github.com/PickNikRobotics/cpp_polyfills/issues/18>`_)
-* Update maintainers (`#15 <https://github.com/PickNikRobotics/cpp_polyfills/issues/15>`_)
+* Add a deprecation warning to the package.xml (`#21 <https://github.com/PickNikRobotics/cpp_polyfills/issues/21>`_)
 * Contributors: Christoph Fröhlich
+
+2.0.1 (2026-03-22)
+------------------
+* Fix invalid preprocessor command 'warning' on MSVC (`#19 <https://github.com/PickNikRobotics/cpp_polyfills/issues/19>`_)
+* Contributors: Christoph Fröhlich
+
+2.0.0 (2026-03-13)
+------------------
+* Redirect tl_expected to system libexpected-dev when available (`#12 <https://github.com/PickNikRobotics/cpp_polyfills/issues/12>`_)
+* Update maintainers (`#15 <https://github.com/PickNikRobotics/cpp_polyfills/issues/15>`_)
+* Contributors: Christoph Fröhlich, Tamaki Nishino
 
 1.2.0 (2025-12-23)
 ------------------
