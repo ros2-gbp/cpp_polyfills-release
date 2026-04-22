@@ -13,6 +13,16 @@
 // <http://creativecommons.org/publicdomain/zero/1.0/>.
 ///
 
+#ifdef _WIN32
+#pragma message( \
+  "tl_expected/expected.hpp is deprecated and will be removed by the ROS 2 Lyrical Luth release. \
+  Use <tl/expected.hpp> from libexpected-dev, or <rcpputils/tl_expected/expected.hpp> if the system header is not available.")   // NOLINT
+#else
+#warning \
+  "tl_expected/expected.hpp is deprecated and will be removed by the ROS 2 Lyrical Luth release. \
+  Use <tl/expected.hpp> from libexpected-dev, or <rcpputils/tl_expected/expected.hpp> if the system header is not available."   // NOLINT
+#endif
+
 #ifndef TL_EXPECTED_HPP
 #define TL_EXPECTED_HPP
 
