@@ -1,0 +1,12 @@
+Source: ros-lyrical-tl-expected
+Section: misc
+Priority: optional
+Maintainer: bmagyar <bence.magyar.robotics@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lyrical-ament-cmake, ros-lyrical-ros-workspace
+Homepage: https://github.com/TartanLlama/expected
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-tl-expected
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libexpected-dev, ros-lyrical-ros-workspace
+Description: C++11/14/17 std::expected with functional-style extensions
