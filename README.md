@@ -1,3 +1,28 @@
+## cpp_polyfills (kilted) - 1.3.1-1
+
+The packages in the `cpp_polyfills` repository were released into the `kilted` distro by running `/usr/bin/bloom-release cpp_polyfills -r kilted` on `Tue, 05 May 2026 18:00:36 -0000`
+
+These packages were released:
+- `tcb_span`
+- `tl_expected`
+
+Version of package(s) in repository `cpp_polyfills`:
+
+- upstream repository: https://github.com/PickNikRobotics/cpp_polyfills.git
+- release repository: https://github.com/ros2-gbp/cpp_polyfills-release.git
+- rosdistro version: `1.3.0-1`
+- old version: `1.3.0-1`
+- new version: `1.3.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.2`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## cpp_polyfills (jazzy) - 1.3.1-1
 
 The packages in the `cpp_polyfills` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release cpp_polyfills -r jazzy -y` on `Tue, 05 May 2026 17:55:12 -0000`
