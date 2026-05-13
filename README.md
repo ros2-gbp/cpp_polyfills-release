@@ -1,3 +1,26 @@
+## cpp_polyfills (rolling) - 2.0.3-1
+
+The packages in the `cpp_polyfills` repository were released into the `rolling` distro by running `/usr/bin/bloom-release cpp_polyfills -r rolling -y` on `Wed, 13 May 2026 18:40:37 -0000`
+
+The `tcb_span` package was released.
+
+Version of package(s) in repository `cpp_polyfills`:
+
+- upstream repository: https://github.com/PickNikRobotics/cpp_polyfills.git
+- release repository: https://github.com/ros2-gbp/cpp_polyfills-release.git
+- rosdistro version: `2.0.2-2`
+- old version: `2.0.2-2`
+- new version: `2.0.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## cpp_polyfills (kilted) - 1.3.1-1
 
 The packages in the `cpp_polyfills` repository were released into the `kilted` distro by running `/usr/bin/bloom-release cpp_polyfills -r kilted` on `Tue, 05 May 2026 18:00:36 -0000`
