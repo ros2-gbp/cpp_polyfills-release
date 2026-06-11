@@ -1,3 +1,28 @@
+## cpp_polyfills (humble) - 1.3.2-1
+
+The packages in the `cpp_polyfills` repository were released into the `humble` distro by running `/usr/bin/bloom-release -r humble cpp_polyfills -y` on `Thu, 11 Jun 2026 06:26:23 -0000`
+
+These packages were released:
+- `tcb_span`
+- `tl_expected`
+
+Version of package(s) in repository `cpp_polyfills`:
+
+- upstream repository: https://github.com/PickNikRobotics/cpp_polyfills.git
+- release repository: https://github.com/ros2-gbp/cpp_polyfills-release.git
+- rosdistro version: `1.3.1-1`
+- old version: `1.3.1-1`
+- new version: `1.3.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## cpp_polyfills (lyrical) - 2.0.3-1
 
 The packages in the `cpp_polyfills` repository were released into the `lyrical` distro by running `/usr/bin/bloom-release cpp_polyfills -r lyrical -y` on `Wed, 13 May 2026 19:05:28 -0000`
